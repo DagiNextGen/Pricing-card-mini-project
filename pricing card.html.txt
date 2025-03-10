@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="pricing card.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main-container">
+        <div class="sub-cont-1">
+            <h1>
+                FREE
+            </h1>
+            <h2>$<sub>0</sub></h2>
+            <h3>GREAT FOR STARTERS</h3>
+            <p>Discover how to create your first projects</p>
+           <bUtton>GET STARTED</bUtton>
+            <ul>
+                <li>1 User</li>
+                <li>5 Projects</li>
+                <li>10GB Storage</li>
+                <li>Priority Support</li> 
+               </ul>
+        </div>
+        <div class="sub-cont-2">
+            <h1>PRO</h1>
+            <h2>$<sub>7/mo</sub></h2>
+            <h3>FOR PLANNED PROJECT</h3>
+            <P>Bring you designs to the next level and export them.</P>
+            <button>GET STARTED</button>
+            <ul>
+                <li>5 Users</li>
+                <li>50 Projects</li>
+                <li>100GB Storage</li>
+                <li>Priority Support</li> 
+               </ul>
+        </div>
+        <div class="sub-cont-3">
+            <h1>ENTERPRISE</h1>
+            <h2>$<sub>12/mo</sub></h2>
+            <h3>FOR PROFESSIONAL USE</h3>
+            <P>Enjoy limitless use with ineractive export options</P>
+            <button>GET STARTED</button>
+            <ul>
+                <li>Unlimited Users</li>
+                <li>Unlimited Projects</li>
+                <li>Unlimited Storage</li>
+                <li>Priority Support</li> 
+               </ul>
+        </div>
+    </div>
+</body>
+</html>
