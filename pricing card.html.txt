@@ -3,6 +3,10 @@
 <head>
     <link rel="stylesheet" href="pricing card.css">
     <meta charset="UTF-8">
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
@@ -17,10 +21,10 @@
             <p>Discover how to create your first projects</p>
            <bUtton>GET STARTED</bUtton>
             <ul>
-                <li>1 User</li>
-                <li>5 Projects</li>
-                <li>10GB Storage</li>
-                <li>Priority Support</li> 
+                <li><i class="fas fa-check"></i> 1 User</li>
+                <li><i class="fas fa-check"></i> 5 Projects</li>
+                <li><i class="fas fa-check"></i> 10GB Storage</li>
+                <li><i class="fas fa-check"></i> Priority Support</li> 
                </ul>
         </div>
         <div class="sub-cont-2">
@@ -30,10 +34,10 @@
             <P>Bring you designs to the next level and export them.</P>
             <button>GET STARTED</button>
             <ul>
-                <li>5 Users</li>
-                <li>50 Projects</li>
-                <li>100GB Storage</li>
-                <li>Priority Support</li> 
+                <li><i class="fas fa-check"></i> 5 Users</li>
+                <li><i class="fas fa-check"></i> 50 Projects</li>
+                <li><i class="fas fa-check"></i> 100GB Storage</li>
+                <li><i class="fas fa-check"></i> Priority Support</li> 
                </ul>
         </div>
         <div class="sub-cont-3">
@@ -43,10 +47,10 @@
             <P>Enjoy limitless use with ineractive export options</P>
             <button>GET STARTED</button>
             <ul>
-                <li>Unlimited Users</li>
-                <li>Unlimited Projects</li>
-                <li>Unlimited Storage</li>
-                <li>Priority Support</li> 
+                <li><i class="fas fa-check"></i> Unlimited Users</li>
+                <li><i class="fas fa-check"></i> Unlimited Projects</li>
+                <li><i class="fas fa-check"></i> Unlimited Storage</li>
+                <li><i class="fas fa-check"></i> Priority Support</li> 
                </ul>
         </div>
     </div>
